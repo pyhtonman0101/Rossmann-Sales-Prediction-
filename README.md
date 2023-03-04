@@ -115,7 +115,7 @@ On the other hand, the XGB Regressor Tuned model has a Test_R2 score of 0.955427
       <p>Available: https://towardsdatascience.com/predicting-e-commerce-sales-with-a-random-forest-regression-3f3c8783e49b</p>
   </li>
   <li><p>ChatGPT. [Online].</p>
-      <p>Available: [https://en.wikipedia.org/wiki/XGBoost](https://chat.openai.com/chat)</p>
+      <p>Available: (https://chat.openai.com/chat)</p>
   </li>
   <li><p>Builtin.com, 'Random Forest'. [Online].</p>
       <p>Available: https://builtin.com/data-science/random-forest-algorithm</p>
